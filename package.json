@@ -1,0 +1,12 @@
+{
+  "name": "cursoecmascript6plus",
+  "version": "1.0.0",
+  "description": "entendiento ECMAScript",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jdchavarro",
+  "license": "ISC"
+}
