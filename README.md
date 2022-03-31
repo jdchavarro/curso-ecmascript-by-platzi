@@ -44,7 +44,14 @@ ES10
 ES11
 1. [Dynamic Import](./src/es11/dynamic-import/index.js)
 2. [bigInt](./src/es11/bigInt.js)
-2. [Promise All Settled](./src/es11/promisesAllSettled.js.js)
-2. [Global This](./src/es11/globalThis.js.js)
-2. [Operador Nulo](./src/es11/nullOperator.js.js)
-2. [Optional Chaining](./src/es11/optionalChaning.js.js)
+3. [Promise All Settled](./src/es11/promisesAllSettled.js.js)
+4. [Global This](./src/es11/globalThis.js.js)
+5. [Operador Nulo](./src/es11/nullOperator.js.js)
+6. [Optional Chaining](./src/es11/optionalChaning.js.js)
+
+ES12
+1. [Replace All](./src/es12/replaceAll.js)
+2. [Metodos Privados](./src/es12/metodosPrivados.js)
+3. [Promise Any](./src/es12/promiseAny.js)
+4. [Weak Ref](./src/es12/weafRef.js)
+5. [Nuevos Operadores Logicos](./src/es12/nuevosOperadoresLogicos.js)
