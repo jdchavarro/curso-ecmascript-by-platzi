@@ -32,3 +32,19 @@ ES9
 2. [Propiedades de propagacion](./src/es9/propagationProperties.js)
 3. [Promise Finally](./src/es9/promiseFinally.js.js)
 4. [Mejoras en Regex](./src/es9/mejorasRegex.js.js)
+
+ES10
+1. [Array flat](./src/es10/flatArray.js)
+2. [Array flat Map](./src/es10/flatMapArray.js)
+3. [Trim](./src/es10/trim.js.js)
+4. [Catch Opcional](./src/es10/optionalCatch.js.js)
+5. [From Entries](./src/es10/fromEntries.js.js)
+6. [Symbol Description](./src/es10/descriptionSymbol.js.js)
+
+ES11
+1. [Dynamic Import](./src/es11/dynamic-import/index.js)
+2. [bigInt](./src/es11/bigInt.js)
+2. [Promise All Settled](./src/es11/promisesAllSettled.js.js)
+2. [Global This](./src/es11/globalThis.js.js)
+2. [Operador Nulo](./src/es11/nullOperator.js.js)
+2. [Optional Chaining](./src/es11/optionalChaning.js.js)
