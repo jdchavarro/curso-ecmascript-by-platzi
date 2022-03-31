@@ -26,3 +26,9 @@ ES8
 1. [Object Entries, Values, Keys](./src/es8/objectEntriesValues.js)
 2. [Padding](./src/es8/padding.js)
 3. [Async Await](./src/es8/asyncAwait.js)
+
+ES9
+1. [Operador de Reposo](./src/es9/spreadOperator.js)
+2. [Propiedades de propagacion](./src/es9/propagationProperties.js)
+3. [Promise Finally](./src/es9/promiseFinally.js.js)
+4. [Mejoras en Regex](./src/es9/mejorasRegex.js.js)
